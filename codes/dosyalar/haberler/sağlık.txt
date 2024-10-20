@@ -1,0 +1,23 @@
+Sağlıkta dönüşüm çalışmaları kapsamında daha önce Elektronik Reçete Sistemi (REÇETEM), ilaç ve tıbbi cihazların sistem üzerinden tekil takibine olanak sağlayan İlaç Takip Sistemi (İTS) ve Ürün Takip Sistemini (ÜTS) devreye alan TİTCK, ilk olma özelliğini taşıyan e-Denetim sisteminin oluşturulmasına ilişkin de çalışmalara başladı.
+
+Bu kapsamda, beşeri tıbbi ürün, tıbbi cihaz, özel tıbbi amaçlı gıdalar, biyosidal ve kozmetik ürünlere yönelik sürdürülen düzenleyici ve denetleyici faaliyetlerde yapay zeka destekli e-Denetim'e geçilecek.
+
+Sistemle, iş süreçlerinin hızlanması, manuel işlemler en aza indirilerek zaman tasarrufu sağlanması, denetim süreçlerinin daha kısa sürede tamamlanması ve böylelikle halk sağlığı için risk oluşturabilecek durumlara anında müdahale edilebilmesi amaçlanıyor.
+
+YAPAY ZEKAYLA DAHA ETKİLİ VE VERİMLİ DENETİM SÜRECİ YÜRÜTÜLECEK
+Gelecek aylarda test çalışmalarının başlaması planlanan e-Denetim sisteminde, yapay zeka rutin denetim görevlerini otomatikleştirerek, denetçilerin karmaşık ve stratejik görevlere odaklanmalarına imkan tanıyacak.
+
+Böylelikle denetçiler, daha etkili, verimli ve güvenilir bir denetim süreci yürütebilecek.
+
+Yapay zekanın öğrenme yeteneği sayesinde, hatalar daha erken yakalanacak ve potansiyel sorunlar hızla giderilecek. e-Denetim ile elektronik ortamda toplanan verilerin analiz edilebilmesi kolaylaşacak, veri analitiği kullanılarak, eğilimler, anormallikler ve olası sorunlar daha hızlı tespit edilebilecek.
+
+İLAÇ TAKİP SİSTEMİ VE e-NABIZ İLE ENTEGRE EDİLECEK
+e-Denetim sistemi ayrıca yetkililer ve denetçilere, verilere bulundukları her yerden erişim imkanını sunacak. Denetim sonuçları ve süreçleri gerçek zamanlı olarak izlenebilecek. Denetçiler gerektiğinde uzaktan da inceleme yapabilecek.
+
+İlaç ve tıbbi cihazlarda "sürekli gözetim" ve hızlı müdahaleye olanak tanıyacak sistem, mobil cihazlara da entegre edilebilecek.
+
+Elektronik denetim, ayrıca kağıt kullanımının azaltılması ve maliyet tasarrufunu da sağlayacak.
+
+Denetim süreçlerinde kullanılmak üzere hazırlanan yapay zeka destekli e-Denetim sisteminin REÇETEM, İTS, ÜTS, Elektronik Süreç Yönetim Sistemi ve e-Nabız ile entegre edilmesi planlanıyor.
+
+Ayrıca sistem için geliştirilecek yazılım, veri güvenliği, gizliliği, siber tehditlere karşı koruma ve veri kaybını önlemek amacıyla en üst seviyede güvenlik önlemlerini barındıracak.
